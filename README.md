@@ -1,6 +1,6 @@
 ## Homework 2 - Karan Kadakia - UIN: 655641760
 - AWS login name: kkadak2
-- Mapreduce deloyment on AWS EMR screen capture youtube link(done using Camatasia): https://youtu.be/47s6ruAdTNw
+- Mapreduce deloyment on AWS EMR screen capture youtube link(done using Camatasia): <a href="https://youtu.be/47s6ruAdTNw" target="_blank"></a>
 
 
 ##IDE and Tools used:
