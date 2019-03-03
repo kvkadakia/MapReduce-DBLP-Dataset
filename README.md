@@ -20,8 +20,8 @@ Intellij, Cloudera VM, Camatasia, Eclipse(In Cloudera VM), sl4j, typesafe, AWS E
 
 
 ##How to run the XMLParser
-- **dblp.xml and dblp.dtd should be saved in the XMLParser folder in order for the project to run**
-- **Delete the author_pairs.txt before running the program** Link: https://dblp.uni-trier.de/xml/
+- **dblp.xml and dblp.dtd should be saved in the XMLParser folder in order for the project to run** Link: https://dblp.uni-trier.de/xml/
+- **Delete the author_pairs.txt before running the program** 
 - Import the Java Project in the IDE
 - Make sure the prof_name_list.txt file(File is present in XMLParser) is saved in the XMLParser folder. This file contains a list of the cs professor which is used to parse the dblp.xml file
 - When test cases are run output file changes, so run test before running the actual project
