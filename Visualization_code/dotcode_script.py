@@ -1,8 +1,14 @@
+#output from mapreduce is fed as input
 f = open("part-r-00000.txt", "r")
 
+#stores the publications of each author
 authNos = {}
+
+#stores the pairs of authors along with their # of collaborations
 authCo = {}
+
 for x in f:
+    #stores the authors name which can be either comma separated or single authors
     authors = ''.join([i for i in x if not i.isdigit()])
     authors = authors.strip('\n')
     authors = authors.strip('\t')
@@ -10,8 +16,10 @@ for x in f:
     authors = authors.replace('-','')
     authors = authors.replace(" ", "_")
     count = ''.join([i for i in x if i.isdigit()])
+    #if comma separated
     if "," in authors:
         authCo[authors] = count
+        #split each author on comma
         author_pair = [x.strip() for x in authors.split(',')]
 
         if author_pair[0] not in authNos:
@@ -25,11 +33,11 @@ for x in f:
             authNos[author_pair[1]] = str(int(authNos[author_pair[1]])+int(count))
     else:
         authNos[authors] = count
-#print(authNos)
-print(authCo)
 
 f = open("di_output.txt","w")
 f.write("digraph{")
+
+#write the code in DOT format to the output file        
 for x,y in authNos.items():    
     if(int(y) < 20):
         y = 20
