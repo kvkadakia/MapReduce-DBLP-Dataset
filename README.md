@@ -24,7 +24,7 @@ Intellij, Cloudera VM, Camatasia, Eclipse(In Cloudera VM), sl4j, typesafe, AWS E
 - **Delete the author_pairs.txt before running the program** 
 - Import the Java Project in the IDE
 - Make sure the prof_name_list.txt file(File is present in XMLParser) is saved in the XMLParser folder. This file contains a list of the cs professor which is used to parse the dblp.xml file
-- When test cases are run output file changes, so run test before running the actual project
+- When test cases are run output file changes, so run test before running the actual project and then delete the output file authors.txt
 - Run the project
 - Output is saved programatically in author_pairs.txt file
 
