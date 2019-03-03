@@ -1,0 +1,111 @@
+A. Prasad Sistla	92
+A. Prasad Sistla,Isabel F. Cruz	1
+A. Prasad Sistla,Lenore D. Zuck	6
+A. Prasad Sistla,Ouri Wolfson	13
+A. Prasad Sistla,Robert H. Sloan	1
+A. Prasad Sistla,V. N. Venkatakrishnan	6
+Ajay D. Kshemkalyani	112
+Anastasios Sidiropoulos	99
+Andrew E. Johnson	74
+Andrew E. Johnson,Barbara Di Eugenio	1
+Andrew E. Johnson,Luc Renambot	10
+Andrew E. Johnson,Tanya Y. Berger-Wolf	1
+Balajee Vamanan	15
+Barbara Di Eugenio	107
+Barbara Di Eugenio,Andrew E. Johnson	1
+Barbara Di Eugenio,Brian D. Ziebart	1
+Barbara Di Eugenio,Ouri Wolfson	2
+Barbara Di Eugenio,Peter C. Nelson	3
+Bhaskar DasGupta	97
+Bhaskar DasGupta,Anastasios Sidiropoulos	1
+Bhaskar DasGupta,Nasim Mobasheri	9
+Bhaskar DasGupta,Robert H. Sloan	2
+Bing Liu	177
+Bing Liu,Ouri Wolfson	1
+Bing Liu,Philip S. Yu	14
+Brent Stephens	14
+Brian D. Ziebart	50
+Brian D. Ziebart,Tanya Y. Berger-Wolf	2
+Chris Kanich	35
+Chris Kanich,Brian D. Ziebart	1
+Chris Kanich,Jason Polakis	1
+Chris Kanich,Tanya Y. Berger-Wolf	4
+Cornelia Caragea	85
+Dale Reed	15
+Daniel J. Bernstein	148
+David Hayes	3
+Debaleena Chattopadhyay	13
+Elena Zheleva	12
+Emanuelle Burton	8
+Evan McCarty	1
+G. Elisabeta Marai	36
+Georgeta Elisabeta Marai	1
+Gonzalo A. Bello	4
+Ian A. Kash	75
+Iasonas Polakis	24
+Isabel F. Cruz	124
+Isabel F. Cruz,Ouri Wolfson	3
+Jakob Eriksson	31
+Jason Polakis	5
+John Lillis	35
+John T. Bell	2
+Jon A. Solworth	35
+Jon A. Solworth,Daniel J. Bernstein	2
+Jon A. Solworth,Robert H. Sloan	2
+Joseph Hummel	13
+Lenore D. Zuck	80
+Luc Renambot	15
+Luc Renambot,Andrew E. Johnson	15
+Luc Renambot,Barbara Di Eugenio	1
+Mark Grechanik	63
+Mark Grechanik,Ugo Buy	3
+Mitchell D. Theys	23
+Natalie Paige Parde	1
+Natalie Parde	15
+Ouri E. Wolfson	1
+Ouri Wolfson	150
+Ouri Wolfson,A. Prasad Sistla	7
+Ouri Wolfson,Bhaskar DasGupta	5
+Ouri Wolfson,Isabel F. Cruz	1
+Ouri Wolfson,Peter C. Nelson	2
+Ouri Wolfson,Philip S. Yu	2
+Ouri Wolfson,Robert H. Sloan	1
+Ouri Wolfson,Ugo Buy	1
+Patrick Troy	1
+Peter C. Nelson	34
+Peter C. Nelson,Tanya Y. Berger-Wolf	2
+Philip S. Yu	1193
+Philip S. Yu,Bing Liu	4
+Philip S. Yu,Chris Kanich	2
+Philip S. Yu,Ouri Wolfson	1
+Philip S. Yu,Peter C. Nelson	1
+Piotr J. Gmytrasiewicz	76
+Prasad Sistla,Peter C. Nelson	1
+Robert H. Sloan	78
+Robert H. Sloan,Jon A. Solworth	1
+Robert H. Sloan,Ouri Wolfson	1
+Robert H. Sloan,Patrick Troy	1
+Robert H. Sloan,Ugo A. Buy	2
+Robert V. Kenyon	22
+Robert V. Kenyon,G. Elisabeta Marai	1
+Robert V. Kenyon,Tanya Y. Berger-Wolf	1
+Scott J. Reckinger	1
+Shanon M. Reckinger	1
+Tanya Y. Berger-Wolf	58
+Tanya Y. Berger-Wolf,Bhaskar DasGupta	12
+Tanya Y. Berger-Wolf,Robert H. Sloan	1
+Tanya Y. Berger-Wolf,Robert V. Kenyon	1
+Ugo A. Buy	11
+Ugo A. Buy,Philip S. Yu	4
+Ugo A. Buy,Robert H. Sloan	3
+Ugo A. Buy,Robert V. Kenyon	1
+Ugo Buy	16
+Ugo Buy,Ajay D. Kshemkalyani	1
+V. N. Venkatakrishnan	43
+V. N. Venkatakrishnan,A. Prasad Sistla	1
+V. N. Venkatakrishnan,Lenore D. Zuck	5
+William Mansky	16
+Xiaorui Sun	38
+Xingbo Wu	13
+Xinhua Zhang	79
+Xinhua Zhang,Brian D. Ziebart	4
