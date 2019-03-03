@@ -11,11 +11,16 @@ import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
+/*
+Input is provided in the arguments in eclipse which is author_pairs.txt this contains single authors and pairs of authors
+Mapreduce sums up all the counts of the single authors as well as the authors that have done collaboration
+*/
+
 public class MapReduce {
 
   public static class TokenizerMapper
        extends Mapper<Object, Text, Text, IntWritable>{
-
+   
     private final static IntWritable one = new IntWritable(1);
     private Text word = new Text();
 

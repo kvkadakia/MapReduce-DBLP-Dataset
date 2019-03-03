@@ -18,7 +18,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.26/slf4j-1.7.26/slf4j-jdk14-1.7.26.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/main/resources/slf4j-jdk14-1.7.26.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -27,7 +27,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.26/slf4j-1.7.26/slf4j-api-1.7.26.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/main/resources/slf4j-api-1.7.26.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

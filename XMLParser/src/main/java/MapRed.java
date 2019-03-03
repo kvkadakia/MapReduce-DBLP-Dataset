@@ -80,6 +80,7 @@ public class MapRed {
                     //cs author with no collaborations
                     if(authors.size()==1)
                     {
+                        log.info("Single author " + authors.get(0));
                         appendStrToFile(authors.get(0)+"\n");
                     }
 
@@ -91,7 +92,7 @@ public class MapRed {
                             else
                                 auth = auth + "," + authors.get(i);
                         }
-                         log.info(auth);
+                        log.info("Collaboration between 2 authors " + auth);
                          appendStrToFile(auth + "\n");
                     }
 
@@ -102,6 +103,7 @@ public class MapRed {
                             for (int j = i + 1; j < authors.size(); j++) {
                                 authPair = authors.get(i) + "," + authors.get(j);
                             }
+                            log.info("Collaboration between more than 2 authors " + authPair);
                             appendStrToFile(authPair + "\n");
                         }
                     }
@@ -115,6 +117,7 @@ public class MapRed {
                     //Store the name of author
                     String authorName = new String(ch, start, length);
                     if(csFaculties.contains(authorName) && !authors.contains(authorName)) {
+                        log.info("Add author to list");
                         authors.add(authorName);
                     }
                 }
@@ -133,11 +136,16 @@ public class MapRed {
     public static boolean appendStrToFile(String str){
         try {
             // Open given file in append mode.
-            BufferedWriter out = new BufferedWriter(new FileWriter(conf.getString("outputfileName.output"), true));
-            out.write(str);
-            log.info(str);
-            out.close();
-            return true;
+            if(str != null) {
+                BufferedWriter out = new BufferedWriter(new FileWriter(conf.getString("outputfileName.output"), true));
+                out.write(str);
+                log.info(str);
+                out.close();
+                return true;
+            }
+            else{
+                return false;
+            }
         }
         catch (IOException e) {
             log.error("exception occoured" + e);
