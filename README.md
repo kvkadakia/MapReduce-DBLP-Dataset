@@ -19,7 +19,7 @@ Intellij, Cloudera VM, Camatasia, Eclipse(In Cloudera VM), sl4j, typesafe, AWS E
 - Visualization_code - Contains the code that is used to do visualization on http://viz-js.com/ and a screenshot of the visualization is in this folder
 
 
-##How to run the XMLParser
+## How to run the XMLParser
 - **dblp.xml and dblp.dtd should be saved in the XMLParser folder in order for the project to run** Link: https://dblp.uni-trier.de/xml/
 - **Delete the author_pairs.txt before running the program** 
 - Import the Java Project in the IDE
